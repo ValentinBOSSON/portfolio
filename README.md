@@ -2,7 +2,7 @@
 
 Personal site of Valentin Bosson, full-stack developer in training at Zone01 Rouen, looking for an alternance in or around Rouen.
 
-Live at [kyuppido.github.io/portfolio](https://kyuppido.github.io/portfolio/).
+Live at [valentinbosson.github.io/portfolio](https://valentinbosson.github.io/portfolio/).
 
 The design is a naturalist's field journal: the stack is drawn as a forest cross-section, and each project is explained through a hand-drawn ecological sketch.
 
